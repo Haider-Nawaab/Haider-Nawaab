@@ -1,5 +1,5 @@
 # HaiderCodex
-![logo]([https://github.com/Haider-Nawaab/HaiderCodex/blob/main/GitHub%20banner.png](https://github.com/Haider-Nawaab/HaiderCodex/issues/1#issue-1929103620))
+![logo](https://github.com/Haider-Nawaab/Haider-Nawaab/tree/main/GitHub%20Banner)
 <h1 align="center">Hi 👋, I'm Haider Codex</h1>
 <h3 align="center">A passionate Software developer.</h3>
 
