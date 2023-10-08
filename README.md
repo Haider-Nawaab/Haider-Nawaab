@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Haider Codex</h1>
 <h3 align="center">A passionate Software developer.</h3>
 
-<img align="right" alt="HaiderCodex" width="350" src="https://i.pinimg.com/originals/7a/fa/1d/7afa1d8e6c8ec2ef24771e58d7e10b8d.gif">
+<img align="right" alt="HaiderCodex" width="350" src="https://i.pinimg.com/originals/8c/dd/ba/8cddba49ffb5bb31ad089aae31d501df.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haider-nawaab&label=Profile%20views&color=0e75b6&style=flat" alt="haider-nawaab" /> </p>
 
