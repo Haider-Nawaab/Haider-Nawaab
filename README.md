@@ -1,7 +1,7 @@
 # HaiderCodex
 
-![logo](https://github.com/Haider-Nawaab/Haider-Nawaab/blob/main/GitHub%20Banner/haider-codex.png)
-<img align="right" alt="HaiderCodex" width="350" src="https://i.pinimg.com/originals/a0/6d/84/a06d847db75941ad3399b631a1de7384.gif">
+![logo](https://i.pinimg.com/originals/a0/6d/84/a06d847db75941ad3399b631a1de7384.gif)
+<img align="right" alt="HaiderCodex" width="350" src="">
 
 <h1 align="center">Hi 👋, I'm Haider Codex</h1>
 <h3 align="center">A passionate Software developer.</h3>
